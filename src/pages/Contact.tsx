@@ -10,7 +10,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="p-10 max-w-3xl mx-auto">
+    <div className="p-10 max-w-3xl mx-auto mt-12">
       <h2 className="text-3xl font-bold text-churchBlue text-center mb-6 font-heading">
         Contact Us
       </h2>

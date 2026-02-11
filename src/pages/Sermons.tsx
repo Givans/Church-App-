@@ -5,7 +5,7 @@ const Sermons = () => {
   const [selectedSermon, setSelectedSermon] = useState<any | null>(null);
 
   return (
-    <div className="bg-gradient-to-b from-blue-50 to-gray-100 min-h-screen text-gray-800 pb-16">
+    <div className="mt-12 bg-gradient-to-b from-blue-50 to-gray-100 min-h-screen text-gray-800 pb-16">
       {/* HERO SECTION */}
       <section className="text-center py-12 bg-blue-100 shadow-inner">
         <h1 className="text-4xl font-bold text-blue-800 mb-2">Our Sermons</h1>

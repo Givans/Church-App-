@@ -1,6 +1,6 @@
 export default function Giving() {
   return (
-    <div className="p-10 text-center">
+    <div className="p-10 text-center mt-12">
       <h2 className="text-3xl font-bold text-blue-700 mb-4">
         Giving & Donations
       </h2>
