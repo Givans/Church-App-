@@ -2,7 +2,7 @@ import events from "../data/events";
 
 export default function Programs() {
   return (
-    <div className="p-10">
+    <div className="p-10 mt-12">
       <h2 className="text-3xl font-bold text-blue-700 text-center mb-6">
         Programs & Upcoming Events
       </h2>

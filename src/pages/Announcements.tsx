@@ -2,7 +2,7 @@ import announcements from "../data/announcements";
 
 export default function Announcements() {
   return (
-    <div className="p-10">
+    <div className="p-10 mt-12">
       <h2 className="text-3xl font-bold text-blue-700 mb-6 text-center">
         Church Announcements
       </h2>

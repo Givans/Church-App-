@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="p-10 text-center">
+    <div className="p-10 text-center mt-12">
       <h2 className="text-3xl font-bold text-churchBlue mb-6 font-heading">
         About Grace Fellowship Church
       </h2>

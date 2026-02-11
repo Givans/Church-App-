@@ -4,7 +4,7 @@ import CardSection from "../components/CardSection";
 
 const Home: React.FC = () => {
   return (
-    <div className="bg-gray-50 min-h-screen">
+    <div className="bg-gray-50 min-h-screen mt-12">
       {/* Hero Section */}
       <HeroSection />
 
